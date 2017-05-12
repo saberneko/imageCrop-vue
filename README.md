@@ -1,3 +1,4 @@
+
 # vue-imgcrop
 
 > An image cropping toll based on vue
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# imageCrop-vue
+This is an imageCrop tool based on vue, which can crop image,  download and upload file.
